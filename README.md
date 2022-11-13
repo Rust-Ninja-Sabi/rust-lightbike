@@ -8,6 +8,10 @@ I am inspired by classic games like #Tron #LightCycle.
 
 <img src="img/step1.gif" width="320" align="left"><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
+## 2. Step _ control bike and camera
+
+<img src="img/step2.gif" width="320" align="left"><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 ```Rust
 
